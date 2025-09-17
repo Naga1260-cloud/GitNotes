@@ -4,4 +4,6 @@ git commit
 git push 
 git pull 
 git diff
-git status 
+git status
+
+git remote 
