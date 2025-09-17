@@ -39,4 +39,4 @@ All public repositories can be cloned and work locally
 
 git clone https://github.com/Naga1260-cloud/GitNotes.git
 
-git clone 
+git clone git@github.com:Naga1260-cloud/GitNotes.git
