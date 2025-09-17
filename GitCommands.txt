@@ -39,4 +39,10 @@ All public repositories can be cloned and work locally
 
 git clone https://github.com/Naga1260-cloud/GitNotes.git
 
+If SSH is not configured to git hub account we cannot use git clone with ssh URL
+
+git config --global user.name "naga1260-cloud"
+git config --global user.email "yaram.nlakshmi@gmail.com"
+
 git clone git@github.com:Naga1260-cloud/GitNotes.git
+
